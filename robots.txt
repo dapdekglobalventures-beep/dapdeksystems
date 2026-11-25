@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dapdekglobalventures-beep.github.io/dapdeksystems/sitemap.xml
